@@ -44,6 +44,11 @@ hr {
     width: 80em;
 }
 
+.a-hr {
+    width: 24em;
+   margin-left: 920px;
+}
+
 .div1 {
     background-color: transparent;
     position: relative;
@@ -164,5 +169,163 @@ hr {
 }
 
 .button:hover {
+    background-color: rgb(59, 4, 4);
+}
+
+
+.announcement1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 1.1;
+    font-size: 1.17em;
+    color: #A94442;
+    text-indent: 6.2em;
+    resize: horizontal;
+    overflow: auto;
+    margin-left: 810px;
+}
+.a-date {
+    font-style: normal;
+    font-weight: 600;
+    color: #666;
+    text-transform: uppercase;
+}
+.a-text {
+    color: #631B1E;
+    margin: 0.5rem 0;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: justify;
+    position: relative;
+    line-height: 1.1;
+}
+
+.a1 {
+    background-color: transparent;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-left: 5px solid lightgray;
+    padding: 40px;
+    margin-left: 920px;
+    margin-top: 25px;
+    text-align: left; 
+}
+
+.a1:hover {
+    border-color: #A94442;
+    cursor: pointer;
+}
+
+.a2 {
+    background-color: transparent;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-left: 5px solid lightgray;
+    padding: 40px;
+    margin-left: 920px;
+    margin-top: 30px;
+    text-align: left; 
+}
+
+.a2:hover {
+    border-color: #A94442;
+    cursor: pointer;
+}
+
+.a3 {
+    background-color: transparent;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-left: 5px solid lightgray;
+    padding: 40px;
+    margin-left: 920px;
+    margin-top: 35px;
+    text-align: left;
+}
+
+.a3:hover {
+    border-color: #A94442;
+    cursor: pointer;
+}
+
+.a4 {
+    background-color: transparent;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-left: 5px solid lightgray;
+    padding: 40px;
+    margin-left: 920px;
+    margin-top: 40px;
+    text-align: left;
+}
+
+.a4:hover {
+    border-color: #A94442;
+    cursor: pointer;
+}
+
+.a5 {
+    background-color: transparent;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-left: 5px solid lightgray;
+    padding: 40px;
+    margin-left: 920px;
+    margin-top: 45px;
+    text-align: left; 
+}
+
+.a5:hover {
+    border-color: #A94442;
+    cursor: pointer;
+}
+
+.a6 {
+    background-color: transparent;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-left: 5px solid lightgray;
+    padding: 40px;
+    margin-left: 920px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.a6:hover { 
+    border-color: #A94442;
+    cursor: pointer;
+}
+
+.a-button {
+    background-color: #671D1E;
+    border: 1px solid transparent;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 1.4;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    vertical-align: middle;
+    float: right;
+    margin-top: 20px;
+    margin-right: 6.9em;
+}
+
+.a-button:hover {
     background-color: rgb(59, 4, 4);
 }
