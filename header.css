@@ -1,0 +1,47 @@
+.header {
+    background-color: #763435;
+    background-repeat: no-repeat;
+
+    height: 250px;
+    width: 1900px;
+  }
+
+  img {
+    width: auto;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    padding-left: 60px;
+    padding-top: 1px;
+  }
+
+  h1 {
+    color: #ffffff;
+    font-size: 50px;
+    text-transform: uppercase;
+    font: sans-serif;
+    padding-left: 170px;
+    line-height: 10px;
+    padding-top: 10px;
+  }
+
+  p {
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 10px;
+    padding-top: 10px;
+    padding-left: 50px;
+  }
+
+ 
+
+  .bg {
+
+    background-image: url(soar_bulsu_2019.jpg);
+    height: 257.275px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+  }
