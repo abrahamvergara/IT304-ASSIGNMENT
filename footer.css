@@ -34,7 +34,7 @@
 
 
 
-.p{
+.footer p{
     direction: rtl;
     color: #999999;
     
@@ -53,7 +53,7 @@
     color: #999999;
     list-style-type: none;
 }
-a:hover {
+.footer a:hover {
     color: #A94442;
 }
 
@@ -104,7 +104,7 @@ a:hover {
    line-height: 1.6;
 }
 
-.endfoot {
+.end{
     position: left;
    
     

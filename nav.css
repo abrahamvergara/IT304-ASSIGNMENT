@@ -6,7 +6,7 @@
     padding: 8px;
 }
 
-.limargin {
+.limargin{
     margin-left: 30em;
 }
 
@@ -22,12 +22,12 @@ nav li {
     float: left;
 }
 
-li a:hover {
+nav li a:hover {
     background-color: #000000;
     color: white;
 }
 
-li a {
+nav li a {
     margin: auto;
     display: block;
     position: relative;
