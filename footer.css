@@ -4,7 +4,10 @@
     border-top: solid 10px #A94442;
     padding-bottom: 50px;
     padding: 50px 50px 60px 50px;
-	margin-top: 80px;    
+    margin-top: 80px; 
+    margin-left: -1em;
+    margin-right: -1em; 
+    margin-bottom: -20px;  
 }
 .clr {
     clear: both;
