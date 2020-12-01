@@ -1,43 +1,23 @@
 
-
-
-
 .footer{
     background-color: #333333;
     border-top: solid 10px #A94442;
     padding-bottom: 50px;
     padding: 50px 50px 60px 50px;
-	margin-top: 80px;
-   
-    
-    
+	margin-top: 80px;    
 }
-
 .clr {
     clear: both;
 }
-
-
-.footer p{
-    
+.footer p{   
     color: #999999;
-    
 }
 .fa-map-marker,.fa-phone,.fa-at{
     color: #A94442;
 }
-
-
-
-
-
-
-
-
 .footer p{
     direction: rtl;
-    color: #999999;
-    
+    color: #999999;   
 }
 
 .footer h3 {
@@ -70,16 +50,10 @@
 .blocks{
      float: left;
     width: 33.3%;
-    
     padding: 10px;
     box-sizing: border-box;
-    
 }
-
-
-
-.block3{
-    
+.block3{   
     float: left;
     width: 99.3%;
     line-height: 1.6;
@@ -87,7 +61,6 @@
     box-sizing: border-box;
 }
 .block1, .block2 {
-    
     float: left;
     width: 49.3%;
     padding: 0px;
@@ -98,15 +71,11 @@
 .download,.linkages{
     float: left;
    width: 32.3%;
-   
    padding: 10px;
    box-sizing: border-box;
    line-height: 1.6;
 }
-
 .end{
-    position: left;
-   
-    
+    position: left;   
 }
 
