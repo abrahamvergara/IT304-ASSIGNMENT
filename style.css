@@ -5,7 +5,7 @@
     font-size: 1.5em;
     color: #A94442;
     text-indent: 4.7em;
-    overflow: hidden;
+    float: left;
 }
 
 .date {

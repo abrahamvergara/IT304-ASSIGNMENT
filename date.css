@@ -1,0 +1,124 @@
+.u-calendar{
+    color: #A94442;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 21px;
+    margin-bottom: 10.5px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.1;
+}
+.e-date{
+    width: 90px;
+    height: 90px;
+    background-color: #f7f7f7;
+    border: 2px solid #A94442;
+    text-align: center;
+    padding-top: 13px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.e-month{
+    padding-left: 3px;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    font-size: 23px;
+    line-height: 23px;
+    width: 100%;
+    font-weight: lighter;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.e-day{
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 40px;
+}
+.e-info{
+    margin-top: 15px;
+    display: block;
+}
+.d-title{
+    margin-top: 10.5px;
+    margin-bottom: 10.5px;
+    font-weight: bold;
+    color: #A94442;
+    font-size: 15px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center
+}
+
+.alld{
+    color: #999999;
+    text-align: center;
+    margin: 0 0 10.5px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.4;
+    
+}
+.c1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    min-height: 1px;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: block;
+    float: left;
+
+}
+.c2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    min-height: 1px;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: block;
+    float: left;
+}
+.c3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    min-height: 1px;
+    padding-left: 70px;
+    padding-right: 70x;
+    display: block;
+    float: left;
+}
+.c4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    min-height: 1px;
+    padding-left: 150px;
+    padding-right: 70px;
+    display: block;
+    float: left;
+}
+.btncalendar{
+    background-color: #671D1E;
+    border: 1px solid transparent;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 1.4;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    vertical-align: middle;
+    float: right;
+    margin-top: 20px;
+    margin-right: 6.9em;
+}
+.btncalendar:hover {
+    background-color: rgb(59, 4, 4);
+}

@@ -2,13 +2,15 @@
   background-color: #763435;
   background-repeat: repeat;
   height: 250px;
-  margin-left: -1em;
-  margin-right: -1em;
-  margin-top: -20px;
+  margin-left: -2em;
+  margin-right: -2em;
+  margin-top: -29px;
 }
 img{
-  height: 100px;
-  width: auto;
+float:left; 
+  top: 0px; 
+  left: 10px; 
+  width: 200px
 }
 
 
@@ -20,14 +22,12 @@ img{
   font: sans-serif;
   padding-left: 170px;
   line-height: 10px;
-  
 }
 
 .bsu {
   color: #ffffff;
   font-size: 40px;
   line-height: 10px;
-  
   padding-left: 171px;
 }
 
