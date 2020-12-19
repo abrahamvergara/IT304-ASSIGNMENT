@@ -1,32 +1,36 @@
 .header {
   background-color: #763435;
   background-repeat: repeat;
-  height: 250px;
-  margin-left: -2em;
+  height: 100px;
+  margin-left: -1em;
   margin-right: -2em;
   margin-top: -29px;
 }
-img{
-float:left; 
-  top: 0px; 
-  left: 10px; 
-  width: 200px
-}
+.header img{
+  margin-top: 15px;
+  margin-left: 230px;
+  width: 63px;
+  height: 63px;
+  }
 
 
 
 .iso {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 17px;
   text-transform: uppercase;
   font: sans-serif;
   padding-left: 170px;
   line-height: 10px;
+  margin-left: 130px;
+  margin-top: -68px;
 }
 
 .bsu {
+  margin-left: 130px;
+  margin-top: -10px;
   color: #ffffff;
-  font-size: 40px;
+  font-size: 16px;
   line-height: 10px;
   padding-left: 171px;
 }
@@ -37,6 +41,7 @@ float:left;
   margin-right: -1em;
   margin-top: -20px;
   padding: 8px;
+  text-align: center;
   
 }
 
